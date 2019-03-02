@@ -4,6 +4,7 @@
         <test-component/>
         <multi-test-component/>
         <multi-test-component/>
+        <router-view></router-view>
     </div>
 </template>
 <script>
